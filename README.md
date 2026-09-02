@@ -58,3 +58,7 @@ Foram utilizadas tags semânticas para melhorar a organização e compreensão d
 <main>
 <section>
 <footer>
+```
+02/09/2026 - Avaliação por Pares:
+
+O projeto cumpre com os requisitos do repositório e do HTML, a semântica está em perfeito estado, com todas as exigências informadas e apresentadas. A página apresenta a aplicação sem bugs aparentes e o vídeo parece funcionar de maneira estável. Em resumo o projeto parece está seguindo um bom direcionamento e está de acordo com o que foi exigido até agora.
